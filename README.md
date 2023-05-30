@@ -1,6 +1,6 @@
 <h1> Application Details </h1>
 
-It is a static web application which is hosted on AWS EKS pod, which is accessible only via external ip. The source code for the project and other necessary files are mantained in Github. The whole infrastructure is created via Terraform in which we have created a eks cluster with a eks node group. In K8s, we have used load balancer service to access the application.
+It is a static web application which is hosted on AWS EKS pod, which is accessible only via external ip. The source code for the project and other necessary files are mantained in Github. The whole infrastructure is created via Terraform in which we have created an AWS EKS cluster with an eks node group. In K8s, we have used load balancer service to access the application.
 
 
 <h1> Instruction to run and maintain the Application </h1>
