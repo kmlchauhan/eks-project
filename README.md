@@ -5,9 +5,9 @@ It is a static web application which is hosted on AWS EKS pod, which is accessib
 
 <h1> Instruction to run and maintain the Application </h1>
 
-1. Firstly, we will create an Amazon Linux EC2 instance manually and set up the configuration as per our need.
+**1.** Firstly, we will create an Amazon Linux EC2 instance manually and set up the configuration as per our need.
 
-2. We will Install terraform and kubernetes in the AWS by using the required installation instruction and use aws configure to connect it with AWS Account.
+**2.** We will Install terraform and kubernetes in the AWS by using the required installation instruction and use aws configure to connect it with AWS Account.
 
  3. Installed terraform in the EC2 Instance using the below command.
       
